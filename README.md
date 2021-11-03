@@ -11,3 +11,12 @@ ABSTRACT
 **Results**: Insert size distribution chromatin particle size classes reflect input MNase-digested DNA size spectra for WT and Ssn6∆ bio-replicates and, among samples, bio-replicates correlate very strongly. A Ty1 retrotransposon duplication event (chrIV:1 101 332-1 206 996) was described by apparent abnormal nucleosome frequency that results in no change to typical retrotransposon gene nucleosome occupancy. Nucleosome occupancy data provide evidence suggesting regulatory interactions between Ty1 duplication and tRNA gene expression. Swi/Snf and Ssn6-Tup1 co-occupancy leads to the most accessible NFR formation at Ssn6 binding promoter regions and ChIP-exo Ssn6 binding regions. This finding was reflected in nucleosome positioning at hexose transporter encoding gene HXT2 and HXT7 promoter regions.
 
 **Conclusions**: Further studies on Ssn6-Tup1 chromatin remodelling activity should include sequence tagged Ty1 elements to identify Ty1 insertion sites and consider this against tRNA gene nucleosome occupancy. Co-occupying Swi/Snf and Ssn6-Tup1 chromatin structure remodelling is transcriptionally activating by increased NFR accessibility at Ssn6 binding promoter regions. Despite evident Ssn6-Tup1 repression, HXT2 and HXT7 loci experience these co-occupying effects demonstrating a remodelling opposing interplay.
+
+
+##### Wild-type budding yeast reference strain BY4742 (Saccharomyces cerevisiae, genotype: MATa; his3∆1; leu2∆0; lys2∆0; ura3∆0) was obtained from EUROSCARF
+
+##### _SSN6_ and _SNF2_ Mutant strain deletions were made using standard gene replacement methods (Wach et al. 1994) by Prof. Alastair Fleming and Dr. Mohamed Alhussain at The Moyne Institute, trinity College Dublin
+
+##### Dr. Mohamed Alhussain carried out yeast culturing and MNase chromatin digestion using methods described by Kent et al. 2011 and Kent and Mellor (1995)
+
+##### DNA sequencing libraries were prepared using the NEXTFLEX Rapid kit (Bioone/Perkin Elmer) and sequenced on an Illumina Nextseq500 in 50bp paired end mode at the Cardiff School of Biosciences Genomics Research Hub
