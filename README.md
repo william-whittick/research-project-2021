@@ -2,6 +2,9 @@
 # Co-occupying Swi/Snf and Ssn6-Tup1 chromatin remodelling activities are required for full nucleosome free region accessibility at Ssn6 promoter targets
 ### William Whittick | Kent Lab at Cardiff University School of Biosciences | 2021
 
+
+<img width="227" alt="image" src="https://user-images.githubusercontent.com/82673987/162563582-04193430-20f5-4569-88c4-274c999d6c68.png">
+
 ABSTRACT
 
 **Background**: By altering nucleosome positioning and structure, eukaryote co-activator and co- repressor remodelling factors change the structure of chromatin to positively and negatively regulate gene expression respectively. Swi/Snf and Ssn6-Tup1 complexes are such factors whose distinct binding and co-occupancy has been identified as a requirement for repressive chromatin structure remodelling at promoter regions and upstream domains. Micrococcal nuclease (MNase) directed chromatin particle spectrum analyses offer an opportunity to map nucleosome landscapes throughout the Saccharomyces cerevisiae genome at a range of specified features.
