@@ -1,6 +1,6 @@
-## research-project-2021 | Final year undergraduate research project
-# Co-occupying Swi/Snf and Ssn6-Tup1 chromatin remodelling activities are required for full nucleosome free region accessibility at Ssn6 promoter targets
-### William Whittick | Kent Lab at Cardiff University School of Biosciences | 2021
+research-project-2021 | Final year undergraduate research project
+Co-occupying Swi/Snf and Ssn6-Tup1 chromatin remodelling activities are required for full nucleosome free region accessibility at Ssn6 promoter targets
+William Whittick | Kent Lab at Cardiff University School of Biosciences | 2021
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/82673987/162563643-a4518b8e-4297-4d65-b7a0-7370b19ea7ed.png"> **At Ssn6-bound promoter regions, the NFR is typically most accessible in Ssn6 and Snf2 cooccupancy**
 
