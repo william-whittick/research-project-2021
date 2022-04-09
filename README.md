@@ -2,8 +2,7 @@
 # Co-occupying Swi/Snf and Ssn6-Tup1 chromatin remodelling activities are required for full nucleosome free region accessibility at Ssn6 promoter targets
 ### William Whittick | Kent Lab at Cardiff University School of Biosciences | 2021
 
-
-<img width="227" alt="image" src="https://user-images.githubusercontent.com/82673987/162563582-04193430-20f5-4569-88c4-274c999d6c68.png">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/82673987/162563643-a4518b8e-4297-4d65-b7a0-7370b19ea7ed.png">
 
 ABSTRACT
 
